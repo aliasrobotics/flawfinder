@@ -1,3 +1,5 @@
+*This repo contains Alias Robotics' fork of flawfinder. Refer to https://dwheeler.com/flawfinder/ for the original work of David A. Wheeler*.
+
 # About
 
 This is "flawfinder" by [David A. Wheeler](mailto:dwheeler@dwheeler.com).
