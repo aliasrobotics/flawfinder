@@ -1,0 +1,15 @@
+diff --git a/test.c b/test.c
+index 97579c0..9ee11a1 100644
+--- a/test.c
++++ b/test.c
+@@ -9,6 +9,10 @@ main() {
+  printf("hello\n");
+ }
+ 
++int bad(char *a, char *b) {
++ strcpy(b, a);
++}
++
+ /* This is a strcpy test. */
+ 
+ int demo(char *a, char *b) {
